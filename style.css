@@ -108,3 +108,9 @@ form{
 footer{
     height: 50px;
 }
+
+@media (max-width:700px){
+    form{
+        width: 100%;
+    }
+}
